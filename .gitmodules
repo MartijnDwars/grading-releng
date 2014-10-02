@@ -1,0 +1,12 @@
+[submodule "grading-tools"]
+	path = grading-tools
+	url = git@github.com:TUDelft-IN4303/grading-tools.git
+	branch = master
+[submodule "spt"]
+	path = spt
+	url = git@github.com:TUDelft-IN4303/spt.git
+	branch = master
+[submodule "spoofax-sunshine"]
+	path = spoofax-sunshine
+	url = git@github.com:metaborg/spoofax-sunshine.git
+	branch = master
