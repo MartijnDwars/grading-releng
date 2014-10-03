@@ -12,9 +12,9 @@
 	</parent>
 
 	<modules>
-		<module>../spt/org.metaborg.spt.listener</module>
-		<module>../spt/org.strategoxt.imp.testing</module>
-		<module>../spoofax-sunshine/org.metaborg.sunshine</module>
-		<module>../grading-tools/reporter</module>
+		<module>spt/org.metaborg.spt.listener</module>
+		<module>spt/org.strategoxt.imp.testing</module>
+		<module>spoofax-sunshine/org.spoofax.sunshine</module>
+		<module>grading-tools/reporter</module>
 	</modules>
 </project>
