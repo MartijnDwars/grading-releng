@@ -1,7 +1,7 @@
 [submodule "grading-tools"]
 	path = grading-tools
 	url = https://github.com/TUDelft-IN4303/grading-tools.git
-	branch = sunshine-master
+	branch = master
 [submodule "spt"]
 	path = spt
 	url = https://github.com/TUDelft-IN4303/spt.git
