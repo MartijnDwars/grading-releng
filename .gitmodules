@@ -2,10 +2,6 @@
 	path = grading-tools
 	url = https://github.com/TUDelft-IN4303/grading-tools.git
 	branch = master
-[submodule "spt"]
-	path = spt
-	url = https://github.com/TUDelft-IN4303/spt.git
-	branch = sunshine-master
 [submodule "spoofax-sunshine"]
 	path = spoofax-sunshine
 	url = https://github.com/metaborg/spoofax-sunshine.git
