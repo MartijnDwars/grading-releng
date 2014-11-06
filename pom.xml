@@ -13,7 +13,9 @@
 
 	<modules>
 		<module>spt/org.metaborg.spt.listener</module>
-		<module>spt/org.strategoxt.imp.testing</module>
+		<module>spt/org.metaborg.spoofax.testrunner.core</module>
+		<module>spt/org.strategoxt.imp.testing.cmd</module>
+		<module>spoofax/org.metaborg.spoofax.core</module>
 		<module>spoofax-sunshine/org.spoofax.sunshine</module>
 		<module>grading-tools/reporter</module>
 	</modules>
