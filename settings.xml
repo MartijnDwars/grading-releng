@@ -64,4 +64,11 @@
             </pluginRepositories>
         </profile>
     </profiles>
+    <mirrors>
+        <mirror>
+            <id>metaborg-nexus-central-mirror</id>
+            <url>http://artifacts.metaborg.org/content/repositories/central/</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+    </mirrors>
 </settings>
