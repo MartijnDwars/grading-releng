@@ -9,7 +9,7 @@
 [submodule "spt"]
 	path = spt
 	url = https://github.com/metaborg/spt.git
-	branch = ignore-error-regions
+	branch = ignore-errors-regions
 [submodule "spoofax"]
 	path = spoofax
 	url = https://github.com/metaborg/spoofax.git
