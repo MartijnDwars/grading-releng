@@ -1,6 +1,6 @@
 [submodule "grading-tools"]
 	path = grading-tools
-	url = https://github.com/TUDelft-IN4303/grading-tools.git
+	url = https://github.com/MartijnDwars/grading-tools.git
 	branch = master
 [submodule "spoofax-sunshine"]
 	path = spoofax-sunshine
