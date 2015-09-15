@@ -13,4 +13,4 @@
 [submodule "spoofax"]
 	path = spoofax
 	url = https://github.com/metaborg/spoofax.git
-	branch = master
+	branch = in4303
