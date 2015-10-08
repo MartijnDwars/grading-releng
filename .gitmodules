@@ -8,8 +8,8 @@
 	branch = master
 [submodule "spt"]
 	path = spt
-	url = https://github.com/metaborg/spt.git
-	branch = ignore-errors-regions
+	url = https://github.com/MartijnDwars/spt.git
+	branch = in4303
 [submodule "spoofax"]
 	path = spoofax
 	url = https://github.com/metaborg/spoofax.git
